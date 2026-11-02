@@ -2,10 +2,29 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: Test Verse Docs
   structure:
-    - type: space
-      key: space-1
-      title: Documentation
-      path: documentation
+    - type: section
+      key: section-1
+      title: Test Verse Docs
+      path: test-verse-docs
       default: true
-      content:
-        directory: ./documentation
+      children:
+        - type: space
+          key: space-1
+          title: Documentation
+          path: documentation
+          default: true
+          content:
+            directory: ./documentation
+    - type: section
+      key: section-2
+      title: Changelog
+      path: changelog
+      children:
+        - type: space
+          key: space-2
+          title: Changelog
+          path: changelog
+          default: true
+          draft: true
+          content:
+            directory: ./changelog
