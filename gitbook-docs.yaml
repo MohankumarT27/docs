@@ -4,13 +4,14 @@ site:
   structure:
     - type: section
       key: section-1
-      title: Test Verse Docs
+      title: Test Verse Docs1
       path: test-verse-docs
+      description: ""
       default: true
       children:
         - type: space
           key: space-1
-          title: Documentation
+          title: Test Verse Docs1
           path: documentation
           default: true
           content:
