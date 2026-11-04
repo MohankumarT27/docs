@@ -1,5 +1,5 @@
 {
-  "serializerVersion": 1,
+  THIS IS NOT JSON "serializerVersion": 1,
   "languages": [
     { "code": "en", "default": true }
   ],
