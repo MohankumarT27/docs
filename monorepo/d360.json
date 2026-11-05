@@ -1,1 +1,13 @@
-{"serializerVersion":1,"languages":[{"code":"en","default":true}],"nodes":[{"paths":[{"langs":["en"],"path":"guide/README.md"}]}]}
+{
+  "serializerVersion": 1,
+  "languages": [
+    { "code": "en", "default": true }
+  ],
+  "nodes": [
+    {
+      "paths": [
+        { "langs": ["en"], "path": "guide/README.md" }
+      ]
+    }
+  ]
+}
