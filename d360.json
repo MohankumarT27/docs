@@ -1,0 +1,32 @@
+{
+  "serializerVersion": 1,
+  "languages": [
+    { "code": "en", "default": true }
+  ],
+  "nodes": [
+    {
+      "paths": [
+        { "langs": ["en"], "path": "instruction-manual/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "instruction-manual/instruction-1.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "operations-sop/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "operations-sop/operations-1-1.md" }
+          ]
+        }
+      ]
+    }
+  ]
+}
