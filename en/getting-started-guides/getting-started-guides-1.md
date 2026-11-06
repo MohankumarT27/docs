@@ -55,3 +55,9 @@ feedback:
 ## <span style="background:transparent;font-family:Arial;font-size:17pt;font-weight:700;background-color:transparent;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;" type="spanMark"><strong>Conclusion</strong></span>
 
 <p style="line-height:1.38;margin-top:12pt;margin-bottom:12pt;" dir="ltr"><span style="background:transparent;font-family:Arial;font-size:11pt;font-weight:400;background-color:transparent;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;" type="spanMark">[Encouragement to start using the product/service and links to further resources.]</span></p>
+
+Image test:
+
+![Wikimedia logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png)
+
+Link test: [Go to the How to Guides article](../how-to-guides/how-to-guides-1.md)
