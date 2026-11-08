@@ -4,7 +4,13 @@ title: CT Article 1108ct
 tags:
   - qa-tag-a-1108ct
   - qa-tag-b-1108ct
-  - qa-tag-new-1108ct
+  - qa-tag-a-1108ct
+  - qa-tag-new-1109
+  - qa-tag-thirtyone-chars-1234567
+  - "c#"
+  - node.js
+  - "a, b"
+  - 日本語
 labels:
   - qa-lbl-1108ct
 seo:
@@ -16,25 +22,34 @@ feedback:
   comments: true
 ---
 
-Intro line <span data-glossary-name="qa_gloss_1108ct" data-glossary="QaTerm1108ct">QaTerm1108ct</span> here.
+Intro R2 <span data-glossary-name="qa_gloss_missing" data-glossary="GhostTerm1109">GhostTerm1109</span> here.
 
 [d360]: # 'snippet name="qa_snip_1108ct"'
 
 Version is <span data-variable="qa_var_1108ct">{{variable.qa_var_1108ct}}</span> today.
 
-## Release {{variable.qa_var_1108ct}} GH1
+UNKNOWN-SNIP-D360 R2:
 
-- List item <span data-variable="qa_var_1108ct">{{variable.qa_var_1108ct}}</span> GH1
-- Raw merge code in list {{variable.qa_var_1108ct}} GH1
+[d360]: # 'snippet name="qa_missing_1109"'
 
-Raw snippet merge code below GH1:
+UNKNOWN-SNIP-RAW R2: {{snippet.qa_missing_1109}}
 
-{{snippet.qa_snip_1108ct}}
+UNKNOWN-VAR-RAW R2: {{variable.qa_missing_1109}}
 
-Second d360 snippet GH1:
+SPACES R2: {{ variable.qa_var_1108ct }}
 
-[d360]: # 'snippet name="qa_snip_1108ct"'
+CASE1 R2: {{Variable.qa_var_1108ct}}
 
-Second glossary GH1 <span data-glossary-name="qa_gloss_1108ct" data-glossary="QaTerm1108ct">QaTerm1108ct</span> end.
+CASE2 R2: {{variable.QA_VAR_1108CT}}
 
-GH-ROUND-1 1108ct
+BROKEN R2: {{variable.qa_var_1108ct}
+
+EMPTY R2: {{variable.}}
+
+INLINE-CODE R2: `{{variable.qa_var_1108ct}}`
+
+```text
+CODEBLOCK R2 {{variable.qa_var_1108ct}} {{snippet.qa_snip_1108ct}}
+```
+
+R2-END 1109
