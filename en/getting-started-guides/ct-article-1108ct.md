@@ -1,18 +1,6 @@
 ---
-guid: 810089f2-9e8c-4acf-9019-e0fd84c0f6de
+guid: 0210b810-2544-4335-b651-bd5e8565f3be
 title: CT Article 1108ct
-tags:
-  - qa-tag-a-1108ct
-  - qa-tag-b-1108ct
-  - qa-tag-a-1108ct
-  - qa-tag-new-1109
-  - qa-tag-thirtyone-chars-1234567
-  - "c#"
-  - node.js
-  - "a, b"
-  - 日本語
-labels:
-  - qa-lbl-1108ct
 seo:
   title: CT Article 1108ct
 display:
@@ -22,7 +10,7 @@ feedback:
   comments: true
 ---
 
-Intro R2 <span data-glossary-name="qa_gloss_missing" data-glossary="GhostTerm1109">GhostTerm1109</span> here.
+Intro R2 <span data-glossary-name="qa_gloss_missing" data-glossary="GhostTerm1109">GhostTerm1109</span> here. D360EDIT
 
 [d360]: # 'snippet name="qa_snip_1108ct"'
 
@@ -32,15 +20,13 @@ UNKNOWN-SNIP-D360 R2:
 
 [d360]: # 'snippet name="qa_missing_1109"'
 
-UNKNOWN-SNIP-RAW R2: {{snippet.qa_missing_1109}}
-
-UNKNOWN-VAR-RAW R2: {{variable.qa_missing_1109}}
+UNKNOWN-VAR-RAW R2: <span data-variable="qa_missing_1109">{{variable.qa_missing_1109}}</span>
 
 SPACES R2: {{ variable.qa_var_1108ct }}
 
 CASE1 R2: {{Variable.qa_var_1108ct}}
 
-CASE2 R2: {{variable.QA_VAR_1108CT}}
+CASE2 R2: <span data-variable="QA_VAR_1108CT">{{variable.QA_VAR_1108CT}}</span>
 
 BROKEN R2: {{variable.qa_var_1108ct}
 
