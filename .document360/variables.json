@@ -1,3 +1,16 @@
 {
-  "variables": []
+  "variables": [
+    {
+      "guid": "057b0fc5-e22c-45ca-8727-c291564556f4",
+      "name": "qa_var_1108ct",
+      "global": true,
+      "value": "VAR-VALUE-1 1108ct"
+    },
+    {
+      "guid": "8f7b7365-d2b9-4a68-b713-bac089d5751d",
+      "name": "qa_var_1108ct",
+      "global": true,
+      "value": "VAR-VALUE-1 1108ct"
+    }
+  ]
 }
