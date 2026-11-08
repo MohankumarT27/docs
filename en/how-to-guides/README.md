@@ -1,5 +1,5 @@
 ---
-guid: c9255e2e-66e1-48e8-b233-992cc0d2d45d
+guid: 06569714-fc29-469c-a894-b0f6910d13a6
 title: How-to guides
 seo:
   title: How-to guides
