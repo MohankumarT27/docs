@@ -1,4 +1,13 @@
 {
   "groups": [],
-  "tags": []
+  "tags": [
+    {
+      "uniqueId": "qa-tag-a-1108ct",
+      "name": "qa-tag-a-1108ct"
+    },
+    {
+      "uniqueId": "qa-tag-b-1108ct",
+      "name": "qa-tag-b-1108ct"
+    }
+  ]
 }
