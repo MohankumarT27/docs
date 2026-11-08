@@ -2,10 +2,12 @@
   "groups": [],
   "tags": [
     {
+      "guid": "d9610c49-bf6b-49a8-a885-05a8288e755b",
       "uniqueId": "qa-tag-a-1108ct",
       "name": "qa-tag-a-1108ct"
     },
     {
+      "guid": "145b9670-3990-491a-b799-ef850cec858a",
       "uniqueId": "qa-tag-b-1108ct",
       "name": "qa-tag-b-1108ct"
     }
