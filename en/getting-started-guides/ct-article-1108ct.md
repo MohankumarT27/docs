@@ -5,6 +5,7 @@ tags:
   - qa-tag-b-1108ct
   - qa-tag-r-1109
   - qa-tag-thirtyone-chars-1234567
+  - qa-tag-b-1108ct-dup
 labels:
   - qa-lbl-1109
 seo:
@@ -46,4 +47,8 @@ INLINE-CODE R2: `{{variable.qa_var_1108ct}}`
 CODEBLOCK R2 {{variable.qa_var_1108ct}} {{snippet.qa_snip_1108ct}}
 ```
 
-R5-END 1109 FIXED-YAML
+BRANCH-MARKER 1109
+
+Branch snippet {{snippet.qa_snip_1108ct}}
+
+Branch var {{variable.qa_var_1108ct}}
