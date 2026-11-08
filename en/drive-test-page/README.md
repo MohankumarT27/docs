@@ -11,7 +11,8 @@ feedback:
   comments: true
 ---
 
-![Orange WS2 only test logo](assets/ws2-folder/ws2-only-logo.png)
+![Orange WS2 only test logo](assets/Presentation/ws2-only-logo.png)
 
-![](assets/ws2-editor-upload.png)
-![Added on GitHub](assets/gh-added.png)
+![](assets/Images/Documentation/ws2-editor-upload%282%29.png)![Added on GitHub](assets/Images/Documentation/gh-added.png)
+
+<object data="https://cdn.sharjah.document360.net/e8bd0b34-aa24-4d31-bf98-d8575265cb49/Images/Documentation/7852fcb4-8093-4852-bb81-918b58c0e77d/guide.pdf" type="application/pdf" width="640" height="320" style="display:flex;margin-right:auto;width:640px;height:320px;"></object>
