@@ -1,7 +1,10 @@
 ---
 guid: 0210b810-2544-4335-b651-bd5e8565f3be
 title: CT Article 1108ct
-tags: [qa-tag-a-1108ct, qa-tag-b-1108ct, "c#", node.js, "a, b", 日本語, qa-tag-thirtyone-chars-12345678]
+tags:
+  - qa-tag-b-1108ct
+  - qa-tag-r-1109
+  - qa-tag-thirtyone-chars-1234567
 labels:
   - qa-lbl-1109
 seo:
@@ -13,9 +16,11 @@ feedback:
   comments: true
 ---
 
-Intro R2 <span data-glossary-name="qa_gloss_missing" data-glossary="GhostTerm1109">GhostTerm1109</span> here. D360EDIT
+Intro R2 <span data-glossary-name="qa_gloss_missing" data-glossary="GhostTerm1109" data-glossaryid="52adb60d-a6bc-49ed-a2c1-1408a9434a8d">GhostTerm1109</span> here. D360EDIT
 
 [d360]: # 'snippet name="qa_snip_1108ct"'
+
+Version is <span data-variable="qa_var_1108ct">{{variable.qa_var_1108ct}}</span> today. D360-CONFLICT
 
 Version is <span data-variable="qa_var_1108ct">{{variable.qa_var_1108ct}}</span> today GH-CONFLICT.
 
