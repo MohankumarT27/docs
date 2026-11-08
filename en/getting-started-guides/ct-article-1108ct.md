@@ -17,7 +17,7 @@ Intro R2 <span data-glossary-name="qa_gloss_missing" data-glossary="GhostTerm110
 
 [d360]: # 'snippet name="qa_snip_1108ct"'
 
-Version is <span data-variable="qa_var_1108ct">{{variable.qa_var_1108ct}}</span> today.
+Version is <span data-variable="qa_var_1108ct">{{variable.qa_var_1108ct}}</span> today GH-CONFLICT.
 
 UNKNOWN-SNIP-D360 R2:
 
