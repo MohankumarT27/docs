@@ -1,3 +1,9 @@
 {
-  "variables": []
+  "variables": [
+    {
+      "name": "qa_var_1108ct",
+      "global": true,
+      "value": "VAR-FROM-GH 1109"
+    }
+  ]
 }
