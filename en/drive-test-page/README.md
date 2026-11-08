@@ -14,3 +14,4 @@ feedback:
 ![Orange WS2 only test logo](assets/ws2-folder/ws2-only-logo.png)
 
 ![](assets/ws2-editor-upload.png)
+![Added on GitHub](assets/gh-added.png)
