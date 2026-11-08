@@ -2,6 +2,16 @@
   "groups": [],
   "tags": [
     {
+      "guid": "987e71e4-e1f4-4431-a95d-8364bea97ae3",
+      "uniqueId": "qa-tag-a-1108ct",
+      "name": "qa-tag-a-1108ct"
+    },
+    {
+      "guid": "98ac2235-38d5-469d-9b6e-d69125c5248b",
+      "uniqueId": "qa-tag-b-1108ct",
+      "name": "qa-tag-b-1108ct"
+    },
+    {
       "guid": "18cc1f7e-94fe-4266-b3cc-334112e19991",
       "uniqueId": "ws2tag",
       "name": "ws2tag"
