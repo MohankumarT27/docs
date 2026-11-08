@@ -1,10 +1,7 @@
 ---
 guid: 0210b810-2544-4335-b651-bd5e8565f3be
 title: CT Article 1108ct
-tags:
-  - qa-tag-a-1108ct
-  - qa-tag-b-1108ct
-  - qa-tag-thirtyone-chars-1234567
+tags: [qa-tag-a-1108ct, qa-tag-b-1108ct
 labels:
   - qa-lbl-1109
 seo:
@@ -44,4 +41,4 @@ INLINE-CODE R2: `{{variable.qa_var_1108ct}}`
 CODEBLOCK R2 {{variable.qa_var_1108ct}} {{snippet.qa_snip_1108ct}}
 ```
 
-R3-END 1109 (GitHub body edit)
+R4-END 1109 BROKEN-YAML
