@@ -4,7 +4,7 @@
       "guid": "9a8fe5de-b34a-4618-9d9d-b7e88d7d1dec",
       "name": "qa_var_1108ct",
       "global": true,
-      "value": "VAR-FROM-GH 1109"
+      "value": "&lt;b&gt;x&lt;/b&gt; &amp; “q” | * _ # V2-1109"
     }
   ]
 }
