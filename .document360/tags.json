@@ -1,4 +1,10 @@
 {
   "groups": [],
-  "tags": []
+  "tags": [
+    {
+      "guid": "18cc1f7e-94fe-4266-b3cc-334112e19991",
+      "uniqueId": "ws2tag",
+      "name": "ws2tag"
+    }
+  ]
 }
