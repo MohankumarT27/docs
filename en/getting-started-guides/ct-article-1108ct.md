@@ -44,4 +44,4 @@ INLINE-CODE R2: `{{variable.qa_var_1108ct}}`
 CODEBLOCK R2 {{variable.qa_var_1108ct}} {{snippet.qa_snip_1108ct}}
 ```
 
-R2-END 1109
+R3-END 1109 (GitHub body edit)
