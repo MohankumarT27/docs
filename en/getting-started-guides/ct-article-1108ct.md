@@ -1,6 +1,12 @@
 ---
 guid: 0210b810-2544-4335-b651-bd5e8565f3be
 title: CT Article 1108ct
+tags:
+  - qa-tag-a-1108ct
+  - qa-tag-b-1108ct
+  - qa-tag-thirtyone-chars-1234567
+labels:
+  - qa-lbl-1109
 seo:
   title: CT Article 1108ct
 display:

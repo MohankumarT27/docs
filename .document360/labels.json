@@ -1,4 +1,10 @@
 {
   "groups": [],
-  "labels": []
+  "labels": [
+    {
+      "guid": "6c9324b8-420e-4b0f-b1bb-901fd47499a6",
+      "uniqueId": "qa-lbl-1109",
+      "name": "qa-lbl-1109"
+    }
+  ]
 }
