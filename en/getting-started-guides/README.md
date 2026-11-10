@@ -1,5 +1,5 @@
 ---
-guid: 6175a53d-7801-4199-a3a3-fc061531a8ba
+guid: 4abc7d6f-930a-4344-b9aa-d6f02af66c94
 title: Getting started guides
 seo:
   title: Getting started guides
