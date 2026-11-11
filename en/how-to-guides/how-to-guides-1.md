@@ -1,6 +1,6 @@
 ---
 guid: df41f2b1-cae7-4b67-9eba-816cfbdcdad7
-title: [How to Guides
+title: How to Guides
 seo:
   title: How to Guides
 display:
