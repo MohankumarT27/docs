@@ -1,12 +1,6 @@
 ---
-guid: 810089f2-9e8c-4acf-9019-e0fd84c0f6de
+guid: f77af4ae-ab95-4d28-877c-f5aa2cbc7703
 title: CT Article 1108ct
-tags:
-  - qa-tag-a-1108ct
-  - qa-tag-b-1108ct
-  - qa-tag-new-1108ct
-labels:
-  - qa-lbl-1108ct
 seo:
   title: CT Article 1108ct
 display:
